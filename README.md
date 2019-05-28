@@ -69,5 +69,9 @@ if dist == 'l2':
 This is the results of image retrieval
 
 <p align="center">
-  <img width="820" height="250" src="/Users/daehakim/Documents/pic/retrieval_result_1.png">
+  <img width="820" height="250" src="/pic/retrieval_result_1.png">
+</p>
+
+<p align="center">
+  <img width="820" height="250" src="/pic/retrieval_result_2.png">
 </p>
