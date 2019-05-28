@@ -61,7 +61,7 @@ Finally, you can use `find_l2_distance` to calculate the relationship between da
 ```python
 if dist == 'l2':
     distances = find_l2_distances(x_valid_emb, x_supp_emb)
-    ```
+```
 
 
 ## Results
