@@ -21,4 +21,4 @@
 
 `3. python train_fashion_mnist.py`
 
-
+## Results
