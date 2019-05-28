@@ -69,9 +69,15 @@ if dist == 'l2':
 This is the results of image retrieval
 
 <p align="center">
-  <img width="820" height="250" src="/pic/retrieval_result_1.png">
+  <img width="820" height="200" src="/pic/retrieval_result_1.png">
 </p>
 
 <p align="center">
-  <img width="820" height="250" src="/pic/retrieval_result_2.png">
+  <img width="820" height="200" src="/pic/retrieval_result_2.png">
+</p>
+
+And we can check embedding space of trained network using visualization tools
+
+<p align="center">
+  <img width="820" height="200" src="/pic/visualization_of_embedding_space">
 </p>
