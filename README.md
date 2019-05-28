@@ -1,4 +1,4 @@
-# 🏖 Triplet loss for image retrieval
+# 🏖 Metric loss for image retrieval
 
 
 💡 This repository is where you can experiment with image retrieval examples based on various datasets.
@@ -86,6 +86,13 @@ And we can also check embedding space of trained network using visualization too
 <p align="center">
   <img width="820" height="200" src="/pic/visualization_of_embedding_space.png">
 </p>
+
+
+## Reference
+
+- Triplet loss paper [[Paper]](https://arxiv.org/abs/1503.03832)
+
+- Survey of metric learning [[Link]](https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning)
 
 
 ## MileStone
