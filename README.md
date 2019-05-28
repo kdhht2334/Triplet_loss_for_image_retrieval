@@ -79,5 +79,5 @@ This is the results of image retrieval
 And we can check embedding space of trained network using visualization tools
 
 <p align="center">
-  <img width="820" height="200" src="/pic/visualization_of_embedding_space">
+  <img width="820" height="200" src="/pic/visualization_of_embedding_space.png">
 </p>
