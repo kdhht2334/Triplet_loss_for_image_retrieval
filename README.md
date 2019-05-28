@@ -25,6 +25,8 @@
 
 5. `python src/train_fashion_mnist.py`
 
+6. or check `/notebook/train_fashion_mnist.ipynb`
+
 ## Description
 
 To build model, simply do like below.
@@ -48,7 +50,7 @@ for i in range(5):
             validation_data=valid_stream, validation_steps=20)
 ```
 
-And I also implemented source code about `recall@K`.
+And I also implemented source code about `Recall@K`.
 ```python
 test_recall_at_one = np.mean(recall_at_kappa_support_query(x_supp_emb, y_supp, 
                                                        x_valid_emb, y_valid, 
@@ -56,7 +58,7 @@ test_recall_at_one = np.mean(recall_at_kappa_support_query(x_supp_emb, y_supp,
 
 print("[INFO] Recall@{} is {}".format(kappa, test_recall_at_one))
                                                       
-                                                     ```
+```
                                                      
 
 Finally, you can use `find_l2_distance` to calculate the relationship between data samples based on the metric distance (Here we use l2 distance).
