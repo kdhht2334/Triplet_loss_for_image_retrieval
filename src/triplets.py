@@ -3,7 +3,7 @@ from keras.preprocessing.image import ImageDataGenerator
 
 
 class TripletStream:
-
+    
     def __init__(self, streams, batch_size):
         self.classes = [c for c in streams]
         self.streams = streams
